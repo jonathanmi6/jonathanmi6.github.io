@@ -5,28 +5,55 @@
   - [Table of Contents](#table-of-contents)
   - [Resume](#resume)
   - [Personal Projects](#personal-projects)
-    - [Fully Custom Mechanical Keyboard](#fully-custom-mechanical-keyboard)
+    - [Custom Mechanical Keyboard (South Paw FRL 1800)](#custom-mechanical-keyboard-south-paw-frl-1800)
+    - [Custom Mechanical Keyboard (Split Ortho)](#custom-mechanical-keyboard-split-ortho)
+    - [Switch Opener](#switch-opener)
   - [Research](#research)
   - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
   - [Machining](#machining)
+  - [3D Printing](#3d-printing)
 
 ## Resume
 
 ![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true)
 
+[Download Here](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/Jonathan_Mi_Resume.pdf)
+
 ## Personal Projects
 
-### Fully Custom Mechanical Keyboard
+### Custom Mechanical Keyboard (South Paw FRL 1800)
 
 ![SPFRL1800 Blue/White & Black/White](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SP1.jpg?raw=true)
 
-Designed a mechanical keyboard from scratch using KiCAD, OnShape, and laser cutting. See [SPFRL1800 repository](https://github.com/jonathanmi6/SPFRL1800) for more details.
+![PCB KiCAD](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SPPCB3.jpg?raw=true)
+
+![PCB](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SPPCB2.jpg?raw=true)
+
+Designed a unique layout mechanical keyboard and wrist rest from scratch using KiCAD, OnShape, and laser cutting. See [SPFRL1800 Open-Source Repository](https://github.com/jonathanmi6/SPFRL1800) for more details (and instructions on how to make your own!).
+
+### Custom Mechanical Keyboard (Split Ortho)
+
+![PCB](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/KBSplitOrtho.png?raw=true)
+
+Designed a split-ortholinear mechanical keyboard from sratch.
+
+### Switch Opener
+
+![Switch Opener](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SWOpener2.jpg?raw=true)
+
+Designed and CNC machined mechanical keyboard switch opener using Solidworks, HSMWorks, and HURCO VM10i.
 
 ## Research
 
 ## First Robotics Competition (FRC)
 
 ## Machining
+
+Various machining projects from over the years on manual machines, HAAS CNC, HURCO CNC, and CNC Routers.
+
+## 3D Printing
+
+
 
 <!-- ## Welcome to GitHub Pages
 
