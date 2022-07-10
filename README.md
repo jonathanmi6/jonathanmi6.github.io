@@ -25,7 +25,7 @@
 
 ![SPFRL1800 Blue/White & Black/White](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SP1.jpg?raw=true)
 
-![PCB KiCAD](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SPPCB3.jpg?raw=true)
+![PCB KiCAD](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SPPCB3.png?raw=true)
 
 ![PCB](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SPPCB2.jpg?raw=true)
 
@@ -35,7 +35,7 @@ Designed a unique layout mechanical keyboard and wrist rest from scratch using K
 
 ![PCB](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/KBSplitOrtho.png?raw=true)
 
-Designed a split-ortholinear mechanical keyboard from sratch.
+Designed a 3D printed split-ortholinear mechanical keyboard from scratch.
 
 ### Switch Opener
 
@@ -47,9 +47,48 @@ Designed and CNC machined mechanical keyboard switch opener using Solidworks, HS
 
 ## First Robotics Competition (FRC)
 
+Design and build lead from 2017-2019 on FRC Team 3647. I led the team to jump from zero awards to win three regional events, two finalist awards, and eight technical awards.
+
+I led the development and design of all the below robots over a tight six week build season.
+
+![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022.jpg?raw=true)
+
+2022 Robot: I designed the drivetrain, serializer, and climber mechanisms.
+
+![FRC 2020](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2020.jpg?raw=true)
+
+2020 Robot: I designed the drivetrain, intake, and shooter mechanisms.
+
+![FRC 2019](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2019.jpg?raw=true)
+
+2019 Robot: I designed the entire robot including the drivetrain, eleavtor, intakes, and climber mechanisms.
+
+![FRC 2018](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2018.jpeg?raw=true)
+
+2018 Robot: I designed the drivetrain, climbing, and intaking mechanisms.
+
+![FRC 2017](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2017.jpg?raw=true)
+
+2017 Robot: I designed the drivetrain and climbing mechanisms.
+
 ## Machining
 
 Various machining projects from over the years on manual machines, HAAS CNC, HURCO CNC, and CNC Routers.
+
+![Watts Crank](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE1.jpg?raw=true)
+
+![Watts Crank](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE2.jpg?raw=true)
+
+![Front Up Right](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE4.jpg?raw=true)
+
+![Diff Mount](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE5.jpg?raw=true)
+
+Above all were CAMed and cut on a HAAS VMC by myself for FSAE team. Parts in order of apperance: Watts Crank, , Front Upright with fixture plate
+
+
+
+
+
 
 ## 3D Printing
 
