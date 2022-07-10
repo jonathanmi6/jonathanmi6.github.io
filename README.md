@@ -12,7 +12,7 @@
 
 ## Resume
 
-![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1?raw=true)
+![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true)
 
 ## Personal Projects
 
