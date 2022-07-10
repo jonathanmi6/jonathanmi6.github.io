@@ -12,7 +12,7 @@
 
 ## Resume
 
-<embed src="https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/Jonathan_Mi_Resume.pdf" type="application/pdf" />
+![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1?raw=true)
 
 ## Personal Projects
 
@@ -21,8 +21,6 @@
 ![SPFRL1800 Blue/White & Black/White](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SP1.jpg?raw=true)
 
 Designed a mechanical keyboard from scratch using KiCAD, OnShape, and laser cutting. See [SPFRL1800 repository](https://github.com/jonathanmi6/SPFRL1800) for more details.
-
-
 
 ## Research
 
