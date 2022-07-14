@@ -8,16 +8,15 @@
     - [Custom Mechanical Keyboard (South Paw FRL 1800)](#custom-mechanical-keyboard-south-paw-frl-1800)
     - [Custom Mechanical Keyboard (Split Ortho)](#custom-mechanical-keyboard-split-ortho)
     - [Switch Opener](#switch-opener)
-  - [Research](#research)
   - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
   - [Machining](#machining)
   - [3D Printing](#3d-printing)
 
 ## Resume
 
-![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true)
+<!-- ![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true)
 
-[Download Here](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/Jonathan_Mi_Resume.pdf)
+[Download Here](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/Jonathan_Mi_Resume.pdf) -->
 
 ## Personal Projects
 
@@ -43,13 +42,29 @@ Designed a 3D printed split-ortholinear mechanical keyboard from scratch.
 
 Designed and CNC machined mechanical keyboard switch opener using Solidworks, HSMWorks, and HURCO VM10i.
 
-## Research
+<!-- ## Research
+
+### Terradynammics Lab at Johns Hopkins University
+
+### Video Processing Lab at UCSD
+
+### Qualcomm Calit2 Prototyping Lab -->
 
 ## First Robotics Competition (FRC)
 
-Design and build lead from 2017-2019 on FRC Team 3647. I led the team to jump from zero awards to win three regional events, two finalist awards, and eight technical awards.
+Design and build lead from 2017-2019 on FRC Team 3647. I led the team to grow from never having won an award to win three regional events, two finalist awards, and eight technical awards.
 
 I led the development and design of all the below robots over a tight six week build season.
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+|          |         |
+| ------------ | ------------- |
+|![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022.jpg?raw=true)|![FRC 2022 CAD](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022Render.png?raw=true)|
 
 ![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022.jpg?raw=true)
 
@@ -61,7 +76,7 @@ I led the development and design of all the below robots over a tight six week b
 
 ![FRC 2019](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2019.jpg?raw=true)
 
-2019 Robot: I designed the entire robot including the drivetrain, eleavtor, intakes, and climber mechanisms.
+2019 Robot: I designed the entire robot including the drivetrain, elevator, intakes, and climber mechanisms.
 
 ![FRC 2018](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2018.jpeg?raw=true)
 
@@ -83,10 +98,12 @@ Various machining projects from over the years on manual machines, HAAS CNC, HUR
 
 ![Diff Mount](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE5.jpg?raw=true)
 
-Above all were CAMed and cut on a HAAS VMC by myself for FSAE team. Parts in order of apperance: Watts Crank, , Front Upright with fixture plate
+Above all were CAMed and cut on a HAAS VMC by myself for the UCSD FSAE team. 
+
+![SWMIR Part 1](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SWIMRParts.jpg?raw=true)
 
 
-
+Above parts were CAMed and cut on a HUCRO VM10i by myself for a 5 DOF Underwater robot 
 
 
 
