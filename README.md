@@ -64,9 +64,7 @@ td, th {
 
 |          |         |
 | ------------ | ------------- |
-|![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022.jpg?raw=true)|![FRC 2022 CAD](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022Render.png?raw=true)|
-
-![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022.jpg?raw=true)
+|<img src="https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022.jpg?raw=true" alt="drawing" height="400"/>|<img src="https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022Render.png?raw=true" alt="drawing" height="400"/>|
 
 2022 Robot: I designed the drivetrain, serializer, and climber mechanisms.
 
