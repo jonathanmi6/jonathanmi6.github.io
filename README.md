@@ -62,15 +62,15 @@ td, th {
 }
 </style>
 
-![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2020Collage.jpg?raw=true)
+![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022Collage.png?raw=true)
 
 2022 Robot: I designed the drivetrain, serializer, and climber mechanisms.
 
-![FRC 2020](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2020.jpg?raw=true)
+![FRC 2020](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2020Collage.png?raw=true)
 
 2020 Robot: I designed the drivetrain, intake, and shooter mechanisms.
 
-![FRC 2019](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2019.jpg?raw=true)
+![FRC 2019](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2019Collage.png?raw=true)
 
 2019 Robot: I designed the entire robot including the drivetrain, elevator, intakes, and climber mechanisms.
 
@@ -97,6 +97,7 @@ Various machining projects from over the years on manual machines, HAAS CNC, HUR
 Above all were CAMed and cut on a HAAS VMC by myself for the UCSD FSAE team. 
 
 ![SWMIR Part 1](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SWIMRParts.jpg?raw=true)
+
 
 
 Above parts were CAMed and cut on a HUCRO VM10i by myself for a 5 DOF Underwater robot 
