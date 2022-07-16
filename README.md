@@ -1,14 +1,12 @@
-# Personal Project Portfolio
 
 ## Table of Contents
-- [Personal Project Portfolio](#personal-project-portfolio)
-  - [Table of Contents](#table-of-contents)
-  - [Personal Projects](#personal-projects)
-    - [Custom Mechanical Keyboard (South Paw FRL 1800)](#custom-mechanical-keyboard-south-paw-frl-1800)
-    - [Custom Mechanical Keyboard (Split Ortho)](#custom-mechanical-keyboard-split-ortho)
-    - [Switch Opener](#switch-opener)
-  - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
-  - [Machining](#machining)
+- [Table of Contents](#table-of-contents)
+- [Personal Projects](#personal-projects)
+  - [Custom Mechanical Keyboard (South Paw FRL 1800)](#custom-mechanical-keyboard-south-paw-frl-1800)
+  - [Custom Mechanical Keyboard (Split Ortho)](#custom-mechanical-keyboard-split-ortho)
+  - [Switch Opener](#switch-opener)
+- [First Robotics Competition (FRC)](#first-robotics-competition-frc)
+- [Machining](#machining)
 
 <!-- ## Resume -->
 
