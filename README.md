@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Personal Project Portfolio](#personal-project-portfolio)
   - [Table of Contents](#table-of-contents)
-  - [Resume](#resume)
   - [Personal Projects](#personal-projects)
     - [Custom Mechanical Keyboard (South Paw FRL 1800)](#custom-mechanical-keyboard-south-paw-frl-1800)
     - [Custom Mechanical Keyboard (Split Ortho)](#custom-mechanical-keyboard-split-ortho)
@@ -12,7 +11,7 @@
   - [Machining](#machining)
   - [3D Printing](#3d-printing)
 
-## Resume
+<!-- ## Resume -->
 
 <!-- ![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true)
 
@@ -86,13 +85,7 @@ td, th {
 
 Various machining projects from over the years on manual machines, HAAS CNC, HURCO CNC, and CNC Routers.
 
-![Watts Crank](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE1.jpg?raw=true)
-
-![Watts Crank](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE2.jpg?raw=true)
-
-![Front Up Right](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE4.jpg?raw=true)
-
-![Diff Mount](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAE5.jpg?raw=true)
+![FSAE](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FSAECollage.png?raw=true)
 
 Above all were CAMed and cut on a HAAS VMC by myself for the UCSD FSAE team. 
 
