@@ -9,7 +9,6 @@
     - [Switch Opener](#switch-opener)
   - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
   - [Machining](#machining)
-  - [3D Printing](#3d-printing)
 
 <!-- ## Resume -->
 
@@ -53,13 +52,8 @@ Designed and CNC machined mechanical keyboard switch opener using Solidworks, HS
 
 Design and build lead from 2017-2019 on FRC Team 3647. I led the team to grow from never having won an award to win three regional events, two finalist awards, and eight technical awards.
 
-I led the development and design of all the below robots over a tight six week build season.
+I led the development and design of all the below robots over a tight six week build season. 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 ![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022Collage.png?raw=true)
 
@@ -97,7 +91,7 @@ Above parts were CAMed and cut on a HUCRO VM10i by myself for a 5 DOF Underwater
 
 
 
-## 3D Printing
+<!-- ## 3D Printing -->
 
 
 
