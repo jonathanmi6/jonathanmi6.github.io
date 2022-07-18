@@ -5,14 +5,18 @@
   - [Custom Mechanical Keyboard (South Paw FRL 1800)](#custom-mechanical-keyboard-south-paw-frl-1800)
   - [Custom Mechanical Keyboard (Split Ortho)](#custom-mechanical-keyboard-split-ortho)
   - [Switch Opener](#switch-opener)
+- [Research](#research)
+  - [Terradynammics Lab at Johns Hopkins University](#terradynammics-lab-at-johns-hopkins-university)
+  - [Video Processing Lab at UCSD](#video-processing-lab-at-ucsd)
+  - [UCSD QI Calit2 Prototyping Lab](#ucsd-qi-calit2-prototyping-lab)
 - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
 - [Machining](#machining)
 
 <!-- ## Resume -->
 
-<!-- ![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true)
+<!-- ![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true) -->
 
-[Download Here](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/Jonathan_Mi_Resume.pdf) -->
+[Resume Download](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/Jonathan_Mi_Resume.pdf)
 
 ## Personal Projects
 
@@ -38,13 +42,17 @@ Designed a 3D printed split-ortholinear mechanical keyboard from scratch.
 
 Designed and CNC machined mechanical keyboard switch opener using Solidworks, HSMWorks, and HURCO VM10i.
 
-<!-- ## Research
+## Research
 
 ### Terradynammics Lab at Johns Hopkins University
 
-### Video Processing Lab at UCSD
 
-### Qualcomm Calit2 Prototyping Lab -->
+### Video Processing Lab at UCSD
+![HICS Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/HICSCollage.png?raw=true)
+
+At the UCSD Video Processing Lab I developed 2 computer vision test benches as well as a 2D -> 3D Polar Lidar platform. The test benches mimiced human eye motion to create a novel Human Inspired Camera System (HICS). I was a co-first author of the [paper submitted to 2020 ISOCC](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/HICSPaper.pdf).
+
+### UCSD QI Calit2 Prototyping Lab
 
 ## First Robotics Competition (FRC)
 
@@ -57,21 +65,26 @@ I led the development and design of all the below robots over a tight six week b
 
 2022 Robot: I designed the drivetrain, serializer, and climber mechanisms.
 
+
 ![FRC 2020](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2020Collage.png?raw=true)
 
 2020 Robot: I designed the drivetrain, intake, and shooter mechanisms.
+
 
 ![FRC 2019](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2019Collage.png?raw=true)
 
 2019 Robot: I designed the entire robot including the drivetrain, elevator, intakes, and climber mechanisms.
 
+
 ![FRC 2018](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2018.jpeg?raw=true)
 
 2018 Robot: I designed the drivetrain, climbing, and intaking mechanisms.
 
+
 ![FRC 2017](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2017.jpg?raw=true)
 
 2017 Robot: I designed the drivetrain and climbing mechanisms.
+
 
 ## Machining
 
