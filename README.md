@@ -1,3 +1,4 @@
+Hello! Welcome to my personal portfolio website. This is an on-going website to show off the various different projects that I have led or taken part in over the years.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -69,7 +70,7 @@ At the UCSD Prototyping Lab I worked with various research and student groups ac
 ### 8-Bit Kogge Stone Adder
 ![KSA](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/KSACollage.png?raw=true)
 
-In my digital integrated circuit design course I designed a custom 8-Bit Kogge Stone Adder (top center) from the transistor level in Cadence using gpdk045 technology. The design utilized static CMOS logic and was the fastest adder in the class. Logic gates (XNOR shown bottom left) and PG logic (black cell shown bottom right) were sized to minimize delay from parasitic capacitances.
+In my digital integrated circuit design course I designed a custom 8-Bit Kogge Stone Adder (top center) from the transistor level in Cadence using gpdk045 technology. The design utilized static CMOS logic and was the fastest adder in the class. Logic gates (XNOR shown bottom left) and PG logic (black cell shown bottom right) were sized to minimize delay from parasitic capacitances. [A detailed report can be viewed here](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/Final_Project_ECE165_SP22.pdf).
 
 ### Line Follower Car
 ![ECE5Car](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/ECE5Car.jpg?raw=true)
