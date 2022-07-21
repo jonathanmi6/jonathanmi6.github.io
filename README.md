@@ -9,6 +9,8 @@
   - [Terradynamics Lab at Johns Hopkins University (Summer 2021-Fall 2021)](#terradynamics-lab-at-johns-hopkins-university-summer-2021-fall-2021)
   - [Video Processing Lab at UCSD (Summer 2020-Spring 2021)](#video-processing-lab-at-ucsd-summer-2020-spring-2021)
   - [UCSD QI Calit2 Prototyping Lab (Summer 2019-Spring 2020)](#ucsd-qi-calit2-prototyping-lab-summer-2019-spring-2020)
+- [Class Projects](#class-projects)
+  - [8-Bit Kogge Stone Adder](#8-bit-kogge-stone-adder)
 - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
 - [Machining](#machining)
 
@@ -54,9 +56,18 @@ At the JHU Terradynamics Lab I developed 2 iterations of a multi-functional legg
 ### Video Processing Lab at UCSD (Summer 2020-Spring 2021)
 ![HICS Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/HICSCollage.png?raw=true)
 
-At the UCSD Video Processing Lab I developed 2 computer vision test benches as well as a 2D -> 3D Polar Lidar room mapping platform. The test benches mimicked human eye motion to create a novel Human Inspired Camera System (HICS). I was a co-first author of the [paper submitted to the 2020 ISOCC Conference](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/HICSPaper.pdf).
+At the UCSD Video Processing Lab I developed 2 computer vision test benches (top left and bottom) as well as a 2D -> 3D Polar Lidar room mapping platform (top right). The test benches mimicked human eye motion to create a novel Human Inspired Camera System (HICS). I was a co-first author of the [paper submitted to the 2020 ISOCC Conference](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/HICSPaper.pdf).
 
 ### UCSD QI Calit2 Prototyping Lab (Summer 2019-Spring 2020)
+
+At the UCSD Prototyping Lab I worked with various research and student groups across campus to bring to life ideas. I utilized a wide range of skills including PCB soldering, SolidWorks CAD, CNC and manual machining, laser cutting, and FDM and SLA 3D printing. Some of the projects I worked on included a 5 DOF underwater UAV for oil pipeline inspection (top left), rat behavior maze (top right), composite parts for a 7 DOF biopsy robot (bottom left), and 
+
+## Class Projects
+
+### 8-Bit Kogge Stone Adder
+
+
+In my digital integrated circuit design course I designed a custom 8-Bit Kogge Stone Adder from the transistor level in Cadence with gpdk045 technology. The design utilized static CMOS logic and was the fastest adder in the class. Logic gates (bottom left & right) and PG logic (top left)
 
 ## First Robotics Competition (FRC)
 
@@ -67,12 +78,12 @@ I led the development and design of all the below robots over a tight six week b
 
 ![FRC 2022](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2022Collage.png?raw=true)
 
-**2022 Robot:** I designed the drivetrain, serializer, and climber mechanisms.
+**2022 Robot:** I designed the drivetrain, serializer (right bottom), and climber mechanisms (right center).
 <br/><br/>
 
 ![FRC 2020](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2020Collage.png?raw=true)
 
-**2020 Robot:** I designed the drivetrain, intake, and shooter mechanisms.
+**2020 Robot:** I designed the drivetrain, intake (right center), and shooter mechanisms (right bottom).
 <br/><br/>
 
 ![FRC 2019](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/FRC2019Collage.png?raw=true)
