@@ -11,6 +11,7 @@
   - [UCSD QI Calit2 Prototyping Lab (Summer 2019-Spring 2020)](#ucsd-qi-calit2-prototyping-lab-summer-2019-spring-2020)
 - [Class Projects](#class-projects)
   - [8-Bit Kogge Stone Adder](#8-bit-kogge-stone-adder)
+  - [Line Follower Car](#line-follower-car)
 - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
 - [Machining](#machining)
 
@@ -59,15 +60,21 @@ At the JHU Terradynamics Lab I developed 2 iterations of a multi-functional legg
 At the UCSD Video Processing Lab I developed 2 computer vision test benches (top left and bottom) as well as a 2D -> 3D Polar Lidar room mapping platform (top right). The test benches mimicked human eye motion to create a novel Human Inspired Camera System (HICS). I was a co-first author of the [paper submitted to the 2020 ISOCC Conference](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/HICSPaper.pdf).
 
 ### UCSD QI Calit2 Prototyping Lab (Summer 2019-Spring 2020)
+![PL Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/PLCollage.png?raw=true)
 
-At the UCSD Prototyping Lab I worked with various research and student groups across campus to bring to life ideas. I utilized a wide range of skills including PCB soldering, SolidWorks CAD, CNC and manual machining, laser cutting, and FDM and SLA 3D printing. Some of the projects I worked on included a 5 DOF underwater UAV for oil pipeline inspection (top left), rat behavior maze (top right), composite parts for a 7 DOF biopsy robot (bottom left), and 
+At the UCSD Prototyping Lab I worked with various research and student groups across campus to bring to life ideas. I utilized a wide range of skills including PCB soldering, SolidWorks CAD, CNC and manual machining, laser cutting, and FDM and SLA 3D printing. Some of the projects I worked on included a 5 DOF underwater UAV for oil pipeline inspection (hydraulic actuator top left), rat behavior maze (top right), 7 DOF biopsy robot (bottom left), and Giant Sloth Pelvis cradle (bottom right).
 
 ## Class Projects
 
 ### 8-Bit Kogge Stone Adder
+![KSA](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/KSACollage.png?raw=true)
 
+In my digital integrated circuit design course I designed a custom 8-Bit Kogge Stone Adder (top center) from the transistor level in Cadence using gpdk045 technology. The design utilized static CMOS logic and was the fastest adder in the class. Logic gates (XNOR shown bottom left) and PG logic (black cell shown bottom right) were sized to minimize delay from parasitic capacitances.
 
-In my digital integrated circuit design course I designed a custom 8-Bit Kogge Stone Adder from the transistor level in Cadence with gpdk045 technology. The design utilized static CMOS logic and was the fastest adder in the class. Logic gates (bottom left & right) and PG logic (top left)
+### Line Follower Car
+![ECE5Car](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/ECE5Car.jpg?raw=true)
+
+In my ECE project course I designed a line follower car with a 3D printed unibody chassis, Arduino controller, precise PID tuning, and five photoresistors for color sensing. The car I designed and programmed was the fastest line follower robot in the class.
 
 ## First Robotics Competition (FRC)
 
@@ -108,11 +115,9 @@ Various machining projects from over the years on manual machines, HAAS CNC, HUR
 
 Above all were CAMed and cut on a HAAS VMC by myself for the UCSD FSAE team. 
 
-![SWMIR Part 1](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SWIMRParts.jpg?raw=true)
+![PL Machining Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/PLMachiningCollage.png?raw=true)
 
-
-
-Above parts were CAMed and cut on a HUCRO VM10i by myself for a 5 DOF Underwater robot 
+Top two images show aluminum, urethane resin, and high density foam composite base plate for robot. Bottom two images show aluminum parts for custom hydraulic actuators for underwater robot. All parts were CAMed and CNC'd by myself on a CNC Router and Hurco VM10i respectively.
 
 
 
