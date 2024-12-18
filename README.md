@@ -1,26 +1,42 @@
-Hello! Welcome to my personal portfolio website. This is an on-going website to show off the various different projects that I have led or taken part in over the years.
+Hello! Welcome to my personal portfolio website. This is an on-going (albiet very poorly updated) website to show off the various different projects that I have led or taken part in over the years. Last updated 10-27-2024.
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Personal Projects](#personal-projects)
-  - [Custom Mechanical Keyboard (South Paw FRL 1800 - Spring 2022)](#custom-mechanical-keyboard-south-paw-frl-1800---spring-2022)
-  - [Custom Mechanical Keyboard (Split Ortho - Fall 2021)](#custom-mechanical-keyboard-split-ortho---fall-2021)
-  - [Switch Opener (Fall 2021)](#switch-opener-fall-2021)
 - [Research](#research)
-  - [Terradynamics Lab at Johns Hopkins University (Summer 2021-Fall 2021)](#terradynamics-lab-at-johns-hopkins-university-summer-2021-fall-2021)
-  - [Video Processing Lab at UCSD (Summer 2020-Spring 2021)](#video-processing-lab-at-ucsd-summer-2020-spring-2021)
-  - [UCSD QI Calit2 Prototyping Lab (Summer 2019-Spring 2020)](#ucsd-qi-calit2-prototyping-lab-summer-2019-spring-2020)
+- [Personal Projects](#personal-projects)
 - [Class Projects](#class-projects)
-  - [8-Bit Kogge Stone Adder](#8-bit-kogge-stone-adder)
-  - [Line Follower Car](#line-follower-car)
 - [First Robotics Competition (FRC)](#first-robotics-competition-frc)
 - [Machining](#machining)
 
-<!-- ## Resume -->
+## CV
 
 <!-- ![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true) -->
 
-[Resume Download](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/Jonathan_Mi_Resume.pdf)
+[CV Download](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/Jonathan_Mi_CV.pdf
+
+## Research
+### Hybrid Dynamic Robotics Lab at University of Michigan, Ann Arbor Robotics Department (Fall 2023-Present)
+I work a various number of projects in this lab from soft robots to tensegrity robots to PCBA design. 
+You can view my publications on my [Google Scholar profile](https://scholar.google.ca/citations?user=BAt1f7oAAAAJ&hl=en).
+
+Some of my PCBA design work is highlighted [here](https://docs.google.com/presentation/d/1-GjnB2h5MBolMWxd4XLtH6x7-25yT58c8GFxS9bJX1A/edit?usp=sharing).
+
+
+### Terradynamics Lab at Johns Hopkins University (Summer 2021-Fall 2021)
+![HICS Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/JHUCollage.png?raw=true)
+
+At the JHU Terradynamics Lab I developed 2 iterations of a multi-functional legged robots capable of traversing complex terrain. The robots featured S-Shaped legs, a rounded shell, actuated wings, and a 2 DOF tail. The robots were constructed out of laser cut acrylic and 3D printed PLA and TPU. Robot controls were written with Python to control Dynamixel Servo motors. I was the first author of the [paper submitted to the 2022 ICRA Conference](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/IRCA2022Paper.pdf)) and was selected as a finalist for the outstanding locomotion award.
+
+
+### Video Processing Lab at UCSD (Summer 2020-Spring 2021)
+![HICS Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/HICSCollage.png?raw=true)
+
+At the UCSD Video Processing Lab I developed 2 computer vision test benches (top left and bottom) as well as a 2D -> 3D Polar Lidar room mapping platform (top right). The test benches mimicked human eye motion to create a novel Human Inspired Camera System (HICS). I was a co-first author of the [paper submitted to the 2020 ISOCC Conference](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/HICSPaper.pdf).
+
+### UCSD QI Calit2 Prototyping Lab (Summer 2019-Spring 2020)
+![PL Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/PLCollage.png?raw=true)
+
+At the UCSD Prototyping Lab I worked with various research and student groups across campus to bring to life ideas. I utilized a wide range of skills including PCB soldering, SolidWorks CAD, CNC and manual machining, laser cutting, and FDM and SLA 3D printing. Some of the projects I worked on included a 5 DOF underwater UAV for oil pipeline inspection (hydraulic actuator top left), rat behavior maze (top right), 7 DOF biopsy robot (bottom left), and Giant Sloth Pelvis cradle (bottom right).
 
 ## Personal Projects
 
@@ -45,25 +61,6 @@ Designed a 3D printed split-ortholinear mechanical keyboard from scratch.
 ![Switch Opener](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/SWOpener2.jpg?raw=true)
 
 Designed and CNC machined mechanical keyboard switch opener using Solidworks, HSMWorks, and HURCO VM10i.
-
-## Research
-Research work that I have performed under a few different PIs throughout college.
-
-### Terradynamics Lab at Johns Hopkins University (Summer 2021-Fall 2021)
-![HICS Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/JHUCollage.png?raw=true)
-
-At the JHU Terradynamics Lab I developed 2 iterations of a multi-functional legged robots capable of traversing complex terrain. The robots featured S-Shaped legs, a rounded shell, actuated wings, and a 2 DOF tail. The robots were constructed out of laser cut acrylic and 3D printed PLA and TPU. Robot controls were written with Python to control Dynamixel Servo motors. I was the first author of the [paper submitted to the 2022 ICRA Conference](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/IRCA2022Paper.pdf)) and was selected as a finalist for the outstanding locomotion award.
-
-
-### Video Processing Lab at UCSD (Summer 2020-Spring 2021)
-![HICS Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/HICSCollage.png?raw=true)
-
-At the UCSD Video Processing Lab I developed 2 computer vision test benches (top left and bottom) as well as a 2D -> 3D Polar Lidar room mapping platform (top right). The test benches mimicked human eye motion to create a novel Human Inspired Camera System (HICS). I was a co-first author of the [paper submitted to the 2020 ISOCC Conference](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/HICSPaper.pdf).
-
-### UCSD QI Calit2 Prototyping Lab (Summer 2019-Spring 2020)
-![PL Collage](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/PLCollage.png?raw=true)
-
-At the UCSD Prototyping Lab I worked with various research and student groups across campus to bring to life ideas. I utilized a wide range of skills including PCB soldering, SolidWorks CAD, CNC and manual machining, laser cutting, and FDM and SLA 3D printing. Some of the projects I worked on included a 5 DOF underwater UAV for oil pipeline inspection (hydraulic actuator top left), rat behavior maze (top right), 7 DOF biopsy robot (bottom left), and Giant Sloth Pelvis cradle (bottom right).
 
 ## Class Projects
 
