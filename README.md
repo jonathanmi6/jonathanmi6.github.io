@@ -12,7 +12,7 @@ Hello! Welcome to my personal portfolio website. This is an on-going (albiet ver
 
 <!-- ![Resume](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/images/Jonathan_Mi_Resume-1.png?raw=true) -->
 
-[CV Download](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/Jonathan_Mi_CV.pdf
+[CV Download](https://github.com/jonathanmi6/jonathanmi6.github.io/blob/main/other/Jonathan_Mi_CV.pdf)
 
 ## Research
 ### Hybrid Dynamic Robotics Lab at University of Michigan, Ann Arbor Robotics Department (Fall 2023-Present)
